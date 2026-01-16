@@ -16,7 +16,7 @@ and seeking internship opportunities to gain hands-on experience.
 - Portfolio Website
 
 ## Live Demo
-[Click here to see my portfolio live](https://Nancy-Githinji.github.io/portfolio/)
+[Click here to see my portfolio live](https://nancy-githinji.github.io/Portfolio/)
 
 ## Contact
 - Email: githinjinancy10@email.com
